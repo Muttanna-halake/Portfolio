@@ -30,6 +30,9 @@ import MV from './assets/education_logo/MV.png';
 import vpsLogo from './assets/education_logo/vps_logo.png';
 
 // Project Section Logo's
+import XVP from './assets/work_logo/Xvp.png';
+import Secured from './assets/work_logo/secured.png';
+import TotalImpact from './assets/work_logo/totalimpact.png';
 import AmazonLogo from './assets/work_logo/ammazon.png';
 import Bus from './assets/work_logo/Bus.png';
 import Farm from './assets/work_logo/Farm.png';
@@ -175,6 +178,36 @@ export const SkillsInfo = [
   export const projects = [
     {
       id: 0,
+      title: "XVP Studios",
+      description:
+        "Designed and developed a client website using Elementor Pro, incorporating custom functionality with HTML, CSS, and JavaScript to deliver a visually appealing, fully responsive, and user-friendly experience.",
+      image: XVP,
+      tags: ["HTML", "CSS", "JavaScript","Wordpress"],
+      github: "https://github.com/MuttannaHalake/Amazon_Clone_JavaScript",
+      // webapp: "https://githubprofiledetective.netlify.app/",
+    },
+     {
+      id: 1,
+      title: "SecureShred",
+      description:
+        "Designed and developed a client website using Elementor Pro, incorporating custom functionality with HTML, CSS, and JavaScript to deliver a visually appealing, fully responsive, and user-friendly experience.",
+      image: Secured,
+      tags: ["HTML", "CSS", "JavaScript","Wordpress"],
+      github: "https://github.com/MuttannaHalake/Amazon_Clone_JavaScript",
+      // webapp: "https://githubprofiledetective.netlify.app/",
+    },
+     {
+      id: 2,
+      title: "Total impact",
+      description:
+        "Built a client website with Elementor Pro, adding custom HTML, CSS, and JavaScript functionality to create a responsive, visually engaging, and highly intuitive user experience.",
+      image: TotalImpact,
+      tags: ["HTML", "CSS", "JavaScript","Wordpress"],
+      github: "https://github.com/MuttannaHalake/Amazon_Clone_JavaScript",
+      // webapp: "https://githubprofiledetective.netlify.app/",
+    },
+    {
+      id: 3,
       title: "Amazon Clone UI",
       description:
         "Created a responsive Amazon clone using HTML, CSS, and JavaScript, closely replicating the platform’s original design and aesthetic. Integrated dynamic features such as product listings, user authentication, and a seamless search function to enhance overall user experience. Additionally, improved the website's responsiveness through JavaScript to ensure optimal performance across different devices.",
@@ -184,7 +217,7 @@ export const SkillsInfo = [
       // webapp: "https://githubprofiledetective.netlify.app/",
     },
     {
-      id: 1,
+      id: 4,
       title: "Online Bus Reservation System",
       description:
         "Developed an Online Bus Reservation System to enable seamless passenger ticket booking. The website was designed with dedicated sections for contact, admin, and user login on the homepage to enhance accessibility. A user registration feature was implemented to allow new users to sign up and access the booking portal.",
@@ -194,7 +227,7 @@ export const SkillsInfo = [
       // webapp: "https://csprep.netlify.app/",
     },
     {
-      id: 2,
+      id: 5,
       title: "Form Management System",
       description:
         "Developed a direct online platform enabling farmers to sell their agricultural products without intermediaries. The platform not only facilitates online sales for farmers but also provides guidance on best farming practices to help improve productivity and sustainability.",
