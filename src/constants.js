@@ -183,7 +183,7 @@ export const SkillsInfo = [
         "Designed and developed a client website using Elementor Pro, incorporating custom functionality with HTML, CSS, and JavaScript to deliver a visually appealing, fully responsive, and user-friendly experience.",
       image: XVP,
       tags: ["HTML", "CSS", "JavaScript","Wordpress"],
-      github: "https://github.com/MuttannaHalake/Amazon_Clone_JavaScript",
+      github: "https://www.xvpstudios.com/",
       // webapp: "https://githubprofiledetective.netlify.app/",
     },
      {
@@ -193,7 +193,7 @@ export const SkillsInfo = [
         "Designed and developed a client website using Elementor Pro, incorporating custom functionality with HTML, CSS, and JavaScript to deliver a visually appealing, fully responsive, and user-friendly experience.",
       image: Secured,
       tags: ["HTML", "CSS", "JavaScript","Wordpress"],
-      github: "https://github.com/MuttannaHalake/Amazon_Clone_JavaScript",
+      github: "https://secureshredinfo.com/",
       // webapp: "https://githubprofiledetective.netlify.app/",
     },
      {
@@ -203,7 +203,7 @@ export const SkillsInfo = [
         "Built a client website with Elementor Pro, adding custom HTML, CSS, and JavaScript functionality to create a responsive, visually engaging, and highly intuitive user experience.",
       image: TotalImpact,
       tags: ["HTML", "CSS", "JavaScript","Wordpress"],
-      github: "https://github.com/MuttannaHalake/Amazon_Clone_JavaScript",
+      github: "https://totalimpactma.com/",
       // webapp: "https://githubprofiledetective.netlify.app/",
     },
     {
