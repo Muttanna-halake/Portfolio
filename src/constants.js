@@ -217,15 +217,15 @@ export const SkillsInfo = [
       // webapp: "https://githubprofiledetective.netlify.app/",
     },
     {
-      id: 4,
-      title: "Online Bus Reservation System",
-      description:
-        "Developed an Online Bus Reservation System to enable seamless passenger ticket booking. The website was designed with dedicated sections for contact, admin, and user login on the homepage to enhance accessibility. A user registration feature was implemented to allow new users to sign up and access the booking portal.",
-      image: Bus,
-      tags: ["HTML", "CSS", "Servlet", "JSP", "MySQL"],
-      github: "https://github.com/MuttannaHalake/DEO-OnlineBusTicketBooking-UI",
-      // webapp: "https://csprep.netlify.app/",
-    },
+  id: 4,
+  title: "FoodCart – Online Food Ordering System",
+  description:
+    "FoodCart is a full-stack food ordering web application offering seamless product browsing, secure user login, order placement, and real-time order tracking. It features a complete Admin Panel for managing products, users, and order statuses along with cancellation and tracking support.",
+  image: FoodCart, 
+  tags: ["Java", "Spring Boot", "Hibernate", "MySQL", "HTML", "CSS", "JavaScript", "Thymeleaf"],
+  github: "https://github.com/MuttannaHalake/FoodCart",
+  // webapp: "https://foodcartapp.online/"
+},
     {
       id: 5,
       title: "Form Management System",
