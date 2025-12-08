@@ -35,6 +35,8 @@ import Secured from './assets/work_logo/secured.png';
 import TotalImpact from './assets/work_logo/totalimpact.png';
 import AmazonLogo from './assets/work_logo/ammazon.png';
 import FoodCart from './assets/work_logo/food.png';
+import Poly from './assets/work_logo/Poly.png';
+import Key2home from './assets/work_logo/Key2home.png';
 import Farm from './assets/work_logo/Farm.png';
 
 
@@ -187,7 +189,27 @@ export const SkillsInfo = [
   // webapp: "https://foodcartapp.online/"
 },
     {
-      id: 2,
+  id: 1,
+  title: "Polytech America – WooCommerce Website",
+  description:
+    "Designed and developed a professional WooCommerce website for Polytech America using WordPress and Elementor. Implemented an advanced custom search filter built with HTML and CSS to help users quickly find relevant products. Ensured a responsive, fast-loading, and user-friendly interface tailored for modern e-commerce standards.",
+  image: Poly,
+  tags: ["WordPress", "WooCommerce", "Elementor", "HTML", "CSS"],
+  github: "https://polytechamerica.com/", // replace if needed
+  // webapp: ""
+},
+    {
+  id: 2,
+  title: "Key2Home – Real Estate Platform",
+  description:
+    "Developed a responsive and feature-rich real estate website for Key2Home using HTML, CSS, and JavaScript. The site is built on the Brightspot CMS with Java as the backend programming language, enabling dynamic content management, property listings, and scalable architecture. Ensured smooth UI/UX, fast performance, and mobile-friendly layouts tailored for real estate users.",
+  image: Key2home,
+  tags: ["HTML", "CSS", "JavaScript", "Brightspot CMS", "Java"],
+  github: "", // optional OR you can add the site URL
+  // webapp: "https://key2home.kw.com/"
+},
+    {
+      id: 3,
       title: "XVP Studios",
       description:
         "Designed and developed a client website using Elementor Pro, incorporating custom functionality with HTML, CSS, and JavaScript to deliver a visually appealing, fully responsive, and user-friendly experience.",
@@ -197,7 +219,7 @@ export const SkillsInfo = [
       // webapp: "https://githubprofiledetective.netlify.app/",
     },
      {
-      id: 3,
+      id: 4,
       title: "SecureShred",
       description:
         "Designed and developed a client website using Elementor Pro, incorporating custom functionality with HTML, CSS, and JavaScript to deliver a visually appealing, fully responsive, and user-friendly experience.",
@@ -207,7 +229,7 @@ export const SkillsInfo = [
       // webapp: "https://githubprofiledetective.netlify.app/",
     },
      {
-      id: 4,
+      id: 5,
       title: "Total impact",
       description:
         "Built a client website with Elementor Pro, adding custom HTML, CSS, and JavaScript functionality to create a responsive, visually engaging, and highly intuitive user experience.",
@@ -217,7 +239,7 @@ export const SkillsInfo = [
       // webapp: "https://githubprofiledetective.netlify.app/",
     },
     {
-      id: 5,
+      id: 6,
       title: "Amazon Clone UI",
       description:
         "Created a responsive Amazon clone using HTML, CSS, and JavaScript, closely replicating the platform’s original design and aesthetic. Integrated dynamic features such as product listings, user authentication, and a seamless search function to enhance overall user experience. Additionally, improved the website's responsiveness through JavaScript to ensure optimal performance across different devices.",
