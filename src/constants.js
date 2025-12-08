@@ -176,48 +176,8 @@ export const SkillsInfo = [
   ];
   
   export const projects = [
-    {
-      id: 0,
-      title: "XVP Studios",
-      description:
-        "Designed and developed a client website using Elementor Pro, incorporating custom functionality with HTML, CSS, and JavaScript to deliver a visually appealing, fully responsive, and user-friendly experience.",
-      image: XVP,
-      tags: ["HTML", "CSS", "JavaScript","Wordpress"],
-      github: "https://www.xvpstudios.com/",
-      // webapp: "https://githubprofiledetective.netlify.app/",
-    },
-     {
-      id: 1,
-      title: "SecureShred",
-      description:
-        "Designed and developed a client website using Elementor Pro, incorporating custom functionality with HTML, CSS, and JavaScript to deliver a visually appealing, fully responsive, and user-friendly experience.",
-      image: Secured,
-      tags: ["HTML", "CSS", "JavaScript","Wordpress"],
-      github: "https://secureshredinfo.com/",
-      // webapp: "https://githubprofiledetective.netlify.app/",
-    },
-     {
-      id: 2,
-      title: "Total impact",
-      description:
-        "Built a client website with Elementor Pro, adding custom HTML, CSS, and JavaScript functionality to create a responsive, visually engaging, and highly intuitive user experience.",
-      image: TotalImpact,
-      tags: ["HTML", "CSS", "JavaScript","Wordpress"],
-      github: "https://totalimpactma.com/",
-      // webapp: "https://githubprofiledetective.netlify.app/",
-    },
-    {
-      id: 3,
-      title: "Amazon Clone UI",
-      description:
-        "Created a responsive Amazon clone using HTML, CSS, and JavaScript, closely replicating the platform’s original design and aesthetic. Integrated dynamic features such as product listings, user authentication, and a seamless search function to enhance overall user experience. Additionally, improved the website's responsiveness through JavaScript to ensure optimal performance across different devices.",
-      image: AmazonLogo,
-      tags: ["HTML", "CSS", "JavaScript"],
-      github: "https://github.com/MuttannaHalake/Amazon_Clone_JavaScript",
-      // webapp: "https://githubprofiledetective.netlify.app/",
-    },
-    {
-  id: 4,
+       {
+  id: 0,
   title: "FoodCart – Online Food Ordering System",
   description:
     "FoodCart is a full-stack food ordering web application offering seamless product browsing, secure user login, order placement, and real-time order tracking. It features a complete Admin Panel for managing products, users, and order statuses along with cancellation and tracking support.",
@@ -227,15 +187,45 @@ export const SkillsInfo = [
   // webapp: "https://foodcartapp.online/"
 },
     {
-      id: 5,
-      title: "Form Management System",
+      id: 2,
+      title: "XVP Studios",
       description:
-        "Developed a direct online platform enabling farmers to sell their agricultural products without intermediaries. The platform not only facilitates online sales for farmers but also provides guidance on best farming practices to help improve productivity and sustainability.",
-      image: Farm,
-      tags: ["HTML", "CSS", "PHP", "MySql"],
-      github: "https://github.com/MuttannaHalake/Farm-Management-",
-      // webapp: "https://movie-recommendation-app-jet.vercel.app/",
+        "Designed and developed a client website using Elementor Pro, incorporating custom functionality with HTML, CSS, and JavaScript to deliver a visually appealing, fully responsive, and user-friendly experience.",
+      image: XVP,
+      tags: ["HTML", "CSS", "JavaScript","Wordpress"],
+      github: "https://www.xvpstudios.com/",
+      // webapp: "https://githubprofiledetective.netlify.app/",
     },
+     {
+      id: 3,
+      title: "SecureShred",
+      description:
+        "Designed and developed a client website using Elementor Pro, incorporating custom functionality with HTML, CSS, and JavaScript to deliver a visually appealing, fully responsive, and user-friendly experience.",
+      image: Secured,
+      tags: ["HTML", "CSS", "JavaScript","Wordpress"],
+      github: "https://secureshredinfo.com/",
+      // webapp: "https://githubprofiledetective.netlify.app/",
+    },
+     {
+      id: 4,
+      title: "Total impact",
+      description:
+        "Built a client website with Elementor Pro, adding custom HTML, CSS, and JavaScript functionality to create a responsive, visually engaging, and highly intuitive user experience.",
+      image: TotalImpact,
+      tags: ["HTML", "CSS", "JavaScript","Wordpress"],
+      github: "https://totalimpactma.com/",
+      // webapp: "https://githubprofiledetective.netlify.app/",
+    },
+    {
+      id: 5,
+      title: "Amazon Clone UI",
+      description:
+        "Created a responsive Amazon clone using HTML, CSS, and JavaScript, closely replicating the platform’s original design and aesthetic. Integrated dynamic features such as product listings, user authentication, and a seamless search function to enhance overall user experience. Additionally, improved the website's responsiveness through JavaScript to ensure optimal performance across different devices.",
+      image: AmazonLogo,
+      tags: ["HTML", "CSS", "JavaScript"],
+      github: "https://github.com/MuttannaHalake/Amazon_Clone_JavaScript",
+      // webapp: "https://githubprofiledetective.netlify.app/",
+    }
     // {
     //   id: 3,
     //   title: "Email Validator NPM Package",
