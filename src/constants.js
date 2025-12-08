@@ -34,7 +34,7 @@ import XVP from './assets/work_logo/Xvp.png';
 import Secured from './assets/work_logo/secured.png';
 import TotalImpact from './assets/work_logo/totalimpact.png';
 import AmazonLogo from './assets/work_logo/ammazon.png';
-import Bus from './assets/work_logo/Bus.png';
+import FoodCart from './assets/work_logo/food.png';
 import Farm from './assets/work_logo/Farm.png';
 
 
