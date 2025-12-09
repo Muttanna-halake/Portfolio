@@ -185,7 +185,7 @@ export const SkillsInfo = [
     "FoodCart is a full-stack food ordering web application offering seamless product browsing, secure user login, order placement, and real-time order tracking. It features a complete Admin Panel for managing products, users, and order statuses along with cancellation and tracking support.",
   image: FoodCart, 
   tags: ["Java", "Spring Boot", "Hibernate", "MySQL", "HTML", "CSS", "JavaScript", "Thymeleaf"],
-  github: "https://github.com/MuttannaHalake/FoodCart",
+  github: "https://github.com/Muttanna-halake/FoodCart",
   // webapp: "https://foodcartapp.online/"
 },
     {
@@ -205,7 +205,7 @@ export const SkillsInfo = [
     "Developed a responsive and feature-rich real estate website for Key2Home using HTML, CSS, and JavaScript. The site is built on the Brightspot CMS with Java as the backend programming language, enabling dynamic content management, property listings, and scalable architecture. Ensured smooth UI/UX, fast performance, and mobile-friendly layouts tailored for real estate users.",
   image: Key2home,
   tags: ["HTML", "CSS", "JavaScript", "Brightspot CMS", "Java"],
-  github: "", // optional OR you can add the site URL
+  github: "https://key2home.kw.com/", // optional OR you can add the site URL
   // webapp: "https://key2home.kw.com/"
 },
     {
