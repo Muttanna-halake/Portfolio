@@ -42,7 +42,7 @@ const About = () => {
           </h3>
           {/* About Me Paragraph */}
           <p className="text-base sm:text-lg md:text-lg text-gray-400 mb-10 mt-8 leading-relaxed">
-           I am a Web Developer with over 1.2 years of experience in building 
+           I am a Web Developer with over 1.9 years of experience in building 
            scalable and responsive websites. Proficient in both front-end and 
            back-end development, I specialize in Java development and modern 
            React technologies to create seamless user experiences and efficient solutions.
